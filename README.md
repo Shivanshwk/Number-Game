@@ -1,1 +1,1 @@
-# Number-Game
+# task-1-internship-codsoft
